@@ -85,7 +85,7 @@
 					<h2 class="text-logo">COC</h2>
 				</div><!-- /End logo -->							
 				<!-- ==== Main Heading ==== -->												
-				<h1 class="intro-title">We are Comming Soon<span class="obak">!</span></h1>
+				<h1 class="intro-title">ระบบบันทึกการ<span class="obak">เผ้าเดี่ยว</span></h1>
 
 				<!-- Spin Clock -->
 				<i class="fa fa-clock-o fa-spin fa-4x fa-clock-spin"></i>
@@ -115,7 +115,7 @@
 				
 				<!-- ==== Intro Section Sub-Heading ==== -->				
 				<div class="intro-subtitle">
-					<p>We are currently Creating Something Awesome.</p>
+					<p>เวลาที่เดินนี้คือเวลาที่จะบันทึกข้อมูลได้ในสัปดาห์นี้</p>
 				</div>							
 											
 			</div> <!-- /End Intro Section Content -->
